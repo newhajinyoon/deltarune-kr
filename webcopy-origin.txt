@@ -1250,7 +1250,7 @@ Uri: https://deltarune.com/./_bridgetown/static/index.DILYQ7CE.js
 File Name: C:\Downloaded Web Sites\deltarune.com\_bridgetown\static\index.DILYQ7CE.js
 Content Type: application/javascript
 
-Uri: https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css
+Uri: https://deltarune.com/assets/css/index.css
 File Name: C:\Downloaded Web Sites\deltarune.com\_bridgetown\static\index.SSBLS5MX.css
 Content Type: text/css
 
