@@ -1,0 +1,1256 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\bootstrap\4.6.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\bootstrap\4.6.2\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.5/dayjs.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\dayjs\1.11.5\dayjs.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.5/plugin/relativeTime.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\dayjs\1.11.5\plugin\relativeTime.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\fancybox\3.5.7\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\howler\2.2.3\howler.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\jquery\3.6.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.slim.min.js
+File Name: C:\Downloaded Web Sites\deltarune.com\ajax\libs\jquery\3.6.1\jquery.slim.min.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/
+File Name: C:\Downloaded Web Sites\deltarune.com\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/assets/audio/midi-bigshot_byShinkoNetCavy.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-bigshot_byShinkoNetCavy.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-cybers-world_byShinkoNetCavy.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-cybers-world_byShinkoNetCavy.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-dialtone.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-dialtone.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-holiday-country.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-holiday-country.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-holiday_country.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-holiday_country.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-pandora-palace_byShinkoNetCavy.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-pandora-palace_byShinkoNetCavy.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-spamton-battle.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-spamton-battle.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/midi-spamton.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\midi-spamton.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/pianpian.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\pianpian.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/update2022-castle-funk.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\update2022-castle-funk.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/update2022-castle-funk.ogg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\update2022-castle-funk.ogg
+Content Type: audio/ogg
+
+Uri: https://deltarune.com/assets/audio/update2022-greenroom.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\update2022-greenroom.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/update2022-greenroom.ogg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\update2022-greenroom.ogg
+Content Type: audio/ogg
+
+Uri: https://deltarune.com/assets/audio/update2022-town-day.mp3
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\update2022-town-day.mp3
+Content Type: audio/mpeg
+
+Uri: https://deltarune.com/assets/audio/update2022-town-day.ogg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\audio\update2022-town-day.ogg
+Content Type: audio/ogg
+
+Uri: https://deltarune.com/assets/css/extra.css
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\css\extra.css
+Content Type: text/css
+
+Uri: https://deltarune.com/assets/css/journal.css
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\css\journal.css
+Content Type: text/css
+
+Uri: https://deltarune.com/assets/css/main_en.css?1750189428
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\css\main_en.css
+Content Type: text/css
+
+Uri: https://deltarune.com/assets/css/spamton.css?1750189428
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\css\spamton.css
+Content Type: text/css
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.eot?
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.svg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.ttf
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Bold.woff
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Bold.woff
+Content Type: font/woff
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.eot?
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.svg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.ttf
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://deltarune.com/assets/fonts/8bitOperatorPlus-Regular.woff
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\8bitOperatorPlus-Regular.woff
+Content Type: font/woff
+
+Uri: https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.eot?
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\JF-Dot-Shinonome-14-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.svg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\JF-Dot-Shinonome-14-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.ttf
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\JF-Dot-Shinonome-14-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://deltarune.com/assets/fonts/JF-Dot-Shinonome-14-Regular.woff
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\fonts\JF-Dot-Shinonome-14-Regular.woff
+Content Type: font/woff
+
+Uri: https://deltarune.com/assets/images/angel-flip.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\angel-flip.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/bar-1.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bar-1.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/bar-2.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bar-2.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/bar-back.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bar-back.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/bar-fill.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bar-fill.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/bar-freedom.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bar-freedom.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/bar-full.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bar-full.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/bg-tree.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bg-tree.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/bg.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bg.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/blink1.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\blink1.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/blink2.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\blink2.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/bluetree.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\bluetree.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/c2-01.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\c2-01.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/c2-02.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\c2-02.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/c2-03.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\c2-03.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/c2-04.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\c2-04.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cat-001.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cat-001.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/cheatsheet/act_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\act_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/attackreticle_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\attackreticle_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/autorun_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\autorun_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/completionfile_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\completionfile_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/defend_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\defend_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/fight_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\fight_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/gainMercy_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\gainMercy_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/lost_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\lost_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/pacifyName_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\pacifyName_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/pacifyOption_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\pacifyOption_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/rAct_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\rAct_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/recruit_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\recruit_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/sAct_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\sAct_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/sparename_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\sparename_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/spare_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\spare_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/start_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\start_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/cheatsheet/tpbar_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\cheatsheet\tpbar_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/childsplay-logo.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\childsplay-logo.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-cash-flip.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-cash-flip.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-cash.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-cash.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-money-flip.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-money-flip.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-money.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-money.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-moneyguy-flip.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-moneyguy-flip.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-moneyguy.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-moneyguy.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-potofgold-flip.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-potofgold-flip.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-potofgold.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-potofgold.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-present-flip.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-present-flip.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-present.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-present.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-trophy-flip.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-trophy-flip.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/clipart-trophy.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\clipart-trophy.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/coolgifs/music.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\coolgifs\music.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/coolgifs/spamdance.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\coolgifs\spamdance.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/curtain-closed.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\curtain-closed.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/curtain-open.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\curtain-open.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/dog-piano-playing.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\dog-piano-playing.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/dog-piano.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\dog-piano.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/doors.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\doors.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/esrb-t.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\esrb-t.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/faq-buble_en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\faq-buble_en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/faq-import-demo-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\faq-import-demo-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/faq-import-full-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\faq-import-full-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/flag-jp.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\flag-jp.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/flag-us.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\flag-us.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/greenroom-hidden.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\greenroom-hidden.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/greenroom.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\greenroom.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/gumball.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\gumball.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/holidaygirl-icon.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\holidaygirl-icon.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/ice.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ice.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/icee.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\icee.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/iceee.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\iceee.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/ie-back.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ie-back.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ie-info.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ie-info.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ie-search.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ie-search.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/key-art.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\key-art.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/key-art.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\key-art.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/keygen-bg.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\keygen-bg.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/keygen-fangamer-loop.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\keygen-fangamer-loop.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/keygen-fangamer.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\keygen-fangamer.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/keygen-fangamer.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\keygen-fangamer.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/lancer-spin-big.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\lancer-spin-big.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/lancer-spin.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\lancer-spin.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/lancer-spin.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\lancer-spin.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/lock.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\lock.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/noise.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\noise.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/noise_small.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\noise_small.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/parchment-bottom.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\parchment-bottom.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/parchment-middle.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\parchment-middle.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/parchment-top.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\parchment-top.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/pipis.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\pipis.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-ps4.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-ps4.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-square-ps4.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-square-ps4.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-square-ps5.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-square-ps5.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-square-steam-tall.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-square-steam-tall.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-square-switch.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-square-switch.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-square-switch2.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-square-switch2.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/platform-switch.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\platform-switch.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/price-tag-split.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\price-tag-split.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/price-tag.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\price-tag.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/prize-banner.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\prize-banner.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/ralseiplush.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ralseiplush.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ribbon.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ribbon.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/screen.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\screen.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/secrets-webring.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\secrets-webring.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/shadowman-scream.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\shadowman-scream.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/shadowman.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\shadowman.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/shadowmen-thumb.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\shadowmen-thumb.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/shadowmen.mp4
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\shadowmen.mp4
+Content Type: video/mp4
+
+Uri: https://deltarune.com/assets/images/shadowmen.webm
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\shadowmen.webm
+Content Type: video/webm
+
+Uri: https://deltarune.com/assets/images/sighting1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\sighting1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/images/sighting2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\sighting2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/images/social-bluesky.svg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\social-bluesky.svg
+Content Type: image/svg+xml
+
+Uri: https://deltarune.com/assets/images/social-twitter.svg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\social-twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://deltarune.com/assets/images/spamton-sweepstakes-logo.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\spamton-sweepstakes-logo.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/spamton-sweepstakes-logoo.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\spamton-sweepstakes-logoo.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/sports.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\sports.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/square.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\square.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ss-1-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ss-1-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ss-2-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ss-2-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ss-3-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ss-3-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ss-4-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ss-4-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ss-5-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ss-5-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/ss-6-en.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\ss-6-en.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/thumb-archive.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\thumb-archive.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/thumb-ch2-thanks.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\thumb-ch2-thanks.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/thumb-ch2.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\thumb-ch2.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/thumb-green-room-door.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\thumb-green-room-door.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/trailer-reveal-thumb.webp
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\trailer-reveal-thumb.webp
+Content Type: image/webp
+
+Uri: https://deltarune.com/assets/images/tree.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\tree.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/tv.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\tv.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/tv2.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\tv2.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-beach.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-beach.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-cafe.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-cafe.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-diner-02.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-diner-02.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-queen-v2-thumb.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-queen-v2-thumb.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-queen-v5.mp4
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-queen-v5.mp4
+Content Type: video/mp4
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-queen-v5.webm
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-queen-v5.webm
+Content Type: video/webm
+
+Uri: https://deltarune.com/assets/images/update2022-dr-ch4-rainy.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-dr-ch4-rainy.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/update2022-spr-green-room-screenshot.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\update2022-spr-green-room-screenshot.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/user-icon.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\user-icon.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/user.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\user.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/volume.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\volume.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/wardrobe-closed.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\wardrobe-closed.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/wardrobe-open.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\wardrobe-open.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/weather.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\weather.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/images/weather.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\weather.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/welcome.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\welcome.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/wiki.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\wiki.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/window.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\window.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/wlndow.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\wlndow.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/xmas.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\xmas.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/images/youve-won.gif
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\images\youve-won.gif
+Content Type: image/gif
+
+Uri: https://deltarune.com/assets/javascripts/jquery.js
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\javascripts\jquery.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/assets/javascripts/reallyplayer.js
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\javascripts\reallyplayer.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/assets/javascripts/spamton.js?1750189428
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\javascripts\spamton.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/assets/javascripts/spamton_dark.js?1750189428
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\javascripts\spamton_dark.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/assets/javascripts/update-092022.js
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\javascripts\update-092022.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-berdly-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-berdly-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-berdly-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-berdly-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-berdly-3.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-berdly-3.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-berdly-preview.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-berdly-preview.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-mona-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-mona-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-mona-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-mona-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-mona-3.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-mona-3.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-mona-4.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-mona-4.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-mona-5.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-mona-5.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/auction-mona-preview.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\auction-mona-preview.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/banana-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\banana-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/banana-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\banana-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/bathrobe-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bathrobe-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/bathrobe-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bathrobe-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/bathrobe-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bathrobe-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/bathrug-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bathrug-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/bathrug-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bathrug-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/belt-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\belt-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/belt-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\belt-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/belt-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\belt-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/bodypillow-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bodypillow-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/bodypillow-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bodypillow-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/bodypillow-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\bodypillow-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/box-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\box-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/box-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\box-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/candle-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\candle-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/candle-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\candle-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/champring-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\champring-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/champring-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\champring-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/champring-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\champring-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/cookie-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cookie-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/cookie-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cookie-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/cookie-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cookie-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/cube-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cube-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/cube-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cube-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/cuttingboard-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cuttingboard-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/cuttingboard-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\cuttingboard-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/deltarunemerch-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\deltarunemerch-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/deltarunemerch-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\deltarunemerch-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/fate-banner.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\fate-banner.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/fate.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\fate.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/giftcards-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\giftcards-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/giftcards-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\giftcards-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/glass-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\glass-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/glass-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\glass-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/locket-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\locket-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/locket-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\locket-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/locket-3.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\locket-3.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/locket-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\locket-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/nursecostume-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\nursecostume-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/nursecostume-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\nursecostume-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/poster-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\poster-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/poster-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\poster-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/roadsign-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\roadsign-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/roadsign-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\roadsign-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/shirts-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\shirts-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/shirts-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\shirts-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/shirts-3.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\shirts-3.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/shirts-4.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\shirts-4.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/shirts-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\shirts-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/snowglobe-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\snowglobe-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/snowglobe-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\snowglobe-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/socks-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\socks-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/socks-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\socks-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/spamton-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\spamton-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/spamton-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\spamton-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/toiletpaper-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\toiletpaper-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/toiletpaper-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\toiletpaper-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/watch-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\watch-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/watch-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\watch-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/watch-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\watch-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/weddingring-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\weddingring-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/weddingring-2.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\weddingring-2.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/weddingring-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\weddingring-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/assets/sweepstakes/worm-1.jpg
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\worm-1.jpg
+Content Type: image/jpeg
+
+Uri: https://deltarune.com/assets/sweepstakes/worm-header.png
+File Name: C:\Downloaded Web Sites\deltarune.com\assets\sweepstakes\worm-header.png
+Content Type: image/png
+
+Uri: https://deltarune.com/blink/
+File Name: C:\Downloaded Web Sites\deltarune.com\blink\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/bluecircle/
+File Name: C:\Downloaded Web Sites\deltarune.com\bluecircle\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/catpetterz/
+File Name: C:\Downloaded Web Sites\deltarune.com\catpetterz\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/changingroom/
+File Name: C:\Downloaded Web Sites\deltarune.com\changingroom\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/chapter1/
+File Name: C:\Downloaded Web Sites\deltarune.com\chapter1\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/chapter3/
+File Name: C:\Downloaded Web Sites\deltarune.com\chapter3\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/cheatsheet/
+File Name: C:\Downloaded Web Sites\deltarune.com\cheatsheet\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/code/
+File Name: C:\Downloaded Web Sites\deltarune.com\code\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/code/comments/
+File Name: C:\Downloaded Web Sites\deltarune.com\code\comments\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/december/
+File Name: C:\Downloaded Web Sites\deltarune.com\december\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/d_a_m_n_y_o_u_t_e_n_n_a/
+File Name: C:\Downloaded Web Sites\deltarune.com\d_a_m_n_y_o_u_t_e_n_n_a\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/egg/
+File Name: C:\Downloaded Web Sites\deltarune.com\egg\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/help/
+File Name: C:\Downloaded Web Sites\deltarune.com\help\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/icee/
+File Name: C:\Downloaded Web Sites\deltarune.com\icee\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/icepalace_glaceir/
+File Name: C:\Downloaded Web Sites\deltarune.com\icepalace_glaceir\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/kris_dreemurr_kris/
+File Name: C:\Downloaded Web Sites\deltarune.com\kris_dreemurr_kris\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/lancer/
+File Name: C:\Downloaded Web Sites\deltarune.com\lancer\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/lostwheretheforestwouldgrow/
+File Name: C:\Downloaded Web Sites\deltarune.com\lostwheretheforestwouldgrow\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/newsletter/
+File Name: C:\Downloaded Web Sites\deltarune.com\newsletter\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/rain/
+File Name: C:\Downloaded Web Sites\deltarune.com\rain\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/ramb/
+File Name: C:\Downloaded Web Sites\deltarune.com\ramb\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/rarecats/
+File Name: C:\Downloaded Web Sites\deltarune.com\rarecats\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/romb/
+File Name: C:\Downloaded Web Sites\deltarune.com\romb\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/secret/
+File Name: C:\Downloaded Web Sites\deltarune.com\secret\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/secretpipis/
+File Name: C:\Downloaded Web Sites\deltarune.com\secretpipis\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/shadowmen/
+File Name: C:\Downloaded Web Sites\deltarune.com\shadowmen\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/sighting/
+File Name: C:\Downloaded Web Sites\deltarune.com\sighting\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/sweepstakes/
+File Name: C:\Downloaded Web Sites\deltarune.com\sweepstakes\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/sweepstakes/credits/
+File Name: C:\Downloaded Web Sites\deltarune.com\sweepstakes\credits\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/sweepstakes/rules
+File Name: C:\Downloaded Web Sites\deltarune.com\sweepstakes\rules
+Content Type: application/octet-stream
+
+Uri: https://deltarune.com/sweepstakes/silence/
+File Name: C:\Downloaded Web Sites\deltarune.com\sweepstakes\silence\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/thepoorchildren/
+File Name: C:\Downloaded Web Sites\deltarune.com\thepoorchildren\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/the_n3w3st_g1rl_g1rl/
+File Name: C:\Downloaded Web Sites\deltarune.com\the_n3w3st_g1rl_g1rl\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/tv/
+File Name: C:\Downloaded Web Sites\deltarune.com\tv\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/update-092020/
+File Name: C:\Downloaded Web Sites\deltarune.com\update-092020\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/update-092021/
+File Name: C:\Downloaded Web Sites\deltarune.com\update-092021\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/update-092022/
+File Name: C:\Downloaded Web Sites\deltarune.com\update-092022\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/weather/
+File Name: C:\Downloaded Web Sites\deltarune.com\weather\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/window/
+File Name: C:\Downloaded Web Sites\deltarune.com\window\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/windows/
+File Name: C:\Downloaded Web Sites\deltarune.com\windows\index.htm
+Content Type: text/html
+
+Uri: https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js
+File Name: C:\Downloaded Web Sites\deltarune.com\_bridgetown\static\index.DILYQ7CE.js
+Content Type: application/javascript
+
+Uri: https://deltarune.com/_bridgetown/static/index.SSBLS5MX.css
+File Name: C:\Downloaded Web Sites\deltarune.com\_bridgetown\static\index.SSBLS5MX.css
+Content Type: text/css
+
