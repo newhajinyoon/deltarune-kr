@@ -1246,7 +1246,7 @@ Uri: https://deltarune.com/windows/
 File Name: C:\Downloaded Web Sites\deltarune.com\windows\index.htm
 Content Type: text/html
 
-Uri: https://deltarune.com/_bridgetown/static/index.DILYQ7CE.js
+Uri: https://deltarune.com/./_bridgetown/static/index.DILYQ7CE.js
 File Name: C:\Downloaded Web Sites\deltarune.com\_bridgetown\static\index.DILYQ7CE.js
 Content Type: application/javascript
 
